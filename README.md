@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0125-valid-palindrome) |
 | [2390-removing-stars-from-a-string](https://github.com/sunnytomar010/my_leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/sunnytomar010/my_leetcode/tree/master/0057-insert-interval) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
