@@ -22,8 +22,14 @@
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/sunnytomar010/my_leetcode/tree/master/0057-insert-interval) |
+| [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0125-valid-palindrome) |
+| [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
