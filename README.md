@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0409-longest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
