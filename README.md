@@ -40,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sunnytomar010/my_leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0125-valid-palindrome) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
@@ -77,6 +78,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sunnytomar010/my_leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/sunnytomar010/my_leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
