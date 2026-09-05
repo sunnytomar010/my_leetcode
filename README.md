@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/sunnytomar010/my_leetcode/tree/master/0057-insert-interval) |
+| [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
 | [0503-next-greater-element-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sunnytomar010/my_leetcode/tree/master/0739-daily-temperatures) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunnytomar010/my_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
