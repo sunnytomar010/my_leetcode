@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/sunnytomar010/my_leetcode/tree/master/0057-insert-interval) |
 | [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
@@ -103,6 +104,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
