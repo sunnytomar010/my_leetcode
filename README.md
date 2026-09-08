@@ -41,6 +41,7 @@
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sunnytomar010/my_leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sunnytomar010/my_leetcode/tree/master/0875-koko-eating-bananas) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunnytomar010/my_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1748-sum-of-unique-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -114,6 +115,7 @@
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sunnytomar010/my_leetcode/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
 |  |
 | ------- |
