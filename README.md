@@ -34,6 +34,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/sunnytomar010/my_leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/sunnytomar010/my_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0409-longest-palindrome) |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
