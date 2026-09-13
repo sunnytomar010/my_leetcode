@@ -45,6 +45,7 @@
 | [0875-koko-eating-bananas](https://github.com/sunnytomar010/my_leetcode/tree/master/0875-koko-eating-bananas) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunnytomar010/my_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1748-sum-of-unique-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting Sort
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sunnytomar010/my_leetcode/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
 |  |
 | ------- |
