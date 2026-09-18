@@ -35,6 +35,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/sunnytomar010/my_leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
@@ -129,4 +131,5 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
