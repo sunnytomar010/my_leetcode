@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunnytomar010/my_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sunnytomar010/my_leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/sunnytomar010/my_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunnytomar010/my_leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sunnytomar010/my_leetcode/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sunnytomar010/my_leetcode/tree/master/0022-generate-parentheses) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunnytomar010/my_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sorting
 |  |
@@ -132,4 +135,8 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/0074-search-a-2d-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sunnytomar010/my_leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
