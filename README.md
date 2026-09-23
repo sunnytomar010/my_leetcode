@@ -43,6 +43,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sunnytomar010/my_leetcode/tree/master/0739-daily-temperatures) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sunnytomar010/my_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0409-longest-palindrome) |
@@ -87,6 +89,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sunnytomar010/my_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -114,6 +117,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting Sort
 |  |
@@ -151,12 +155,19 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
