@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sunnytomar010/my_leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## String
 |  |
@@ -52,6 +53,7 @@
 | [0739-daily-temperatures](https://github.com/sunnytomar010/my_leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sunnytomar010/my_leetcode/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunnytomar010/my_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -127,6 +129,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting Sort
 |  |
@@ -166,6 +169,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,15 +177,25 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
