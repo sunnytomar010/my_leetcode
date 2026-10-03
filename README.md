@@ -50,6 +50,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/sunnytomar010/my_leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
@@ -93,6 +94,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sunnytomar010/my_leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
 | [1748-sum-of-unique-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -107,6 +109,7 @@
 | [0383-ransom-note](https://github.com/sunnytomar010/my_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sunnytomar010/my_leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
 | [1748-sum-of-unique-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -115,6 +118,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/sunnytomar010/my_leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
@@ -140,6 +144,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/sunnytomar010/my_leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
@@ -197,6 +202,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/sunnytomar010/my_leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
