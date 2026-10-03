@@ -50,6 +50,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sunnytomar010/my_leetcode/tree/master/0739-daily-temperatures) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/sunnytomar010/my_leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0125-valid-palindrome) |
+| [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -137,6 +139,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -153,6 +156,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/sunnytomar010/my_leetcode/tree/master/0275-h-index-ii) |
+| [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sunnytomar010/my_leetcode/tree/master/0875-koko-eating-bananas) |
@@ -192,6 +196,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -224,4 +229,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sunnytomar010/my_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
