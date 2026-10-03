@@ -58,6 +58,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunnytomar010/my_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1748-sum-of-unique-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
@@ -139,6 +140,7 @@
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting Sort
 |  |
@@ -154,6 +156,7 @@
 | [0704-binary-search](https://github.com/sunnytomar010/my_leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sunnytomar010/my_leetcode/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sunnytomar010/my_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
 |  |
@@ -164,6 +167,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sunnytomar010/my_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,6 +195,7 @@
 | [0692-top-k-frequent-words](https://github.com/sunnytomar010/my_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sunnytomar010/my_leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sunnytomar010/my_leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sunnytomar010/my_leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
