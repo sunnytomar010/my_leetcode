@@ -69,6 +69,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/sunnytomar010/my_leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sunnytomar010/my_leetcode/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/sunnytomar010/my_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/sunnytomar010/my_leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
@@ -141,6 +142,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/sunnytomar010/my_leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/sunnytomar010/my_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sunnytomar010/my_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnytomar010/my_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/sunnytomar010/my_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnytomar010/my_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/sunnytomar010/my_leetcode/tree/master/0502-ipo) |
@@ -241,4 +244,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/sunnytomar010/my_leetcode/tree/master/0658-find-k-closest-elements) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sunnytomar010/my_leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sunnytomar010/my_leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
